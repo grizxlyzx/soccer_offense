@@ -1,0 +1,1 @@
+from soccer_offense.envs.soccer_offense import SoccerOffenseEnv
